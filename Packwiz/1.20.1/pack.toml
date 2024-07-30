@@ -1,0 +1,13 @@
+name = "DUP"
+author = "dirtTW"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "86c377fc67b88e486ef4d51219c336ba4a0e0728bb4f68abde4857446ca11103"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
