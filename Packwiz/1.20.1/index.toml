@@ -98,7 +98,7 @@ hash = "6cea48c192d3832f070709b9a8b22262da36279c17f72a2cf69a1d4e794c01be"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "cbf619d2428d428081d38b5237586da9fe5e3a39b5940752a3961edaa34ad6c7"
+hash = "2c41d4e6d8dda7e071b699d978f69faab537f236ea11b6990a0b50abe062c601"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "d7c6555b666ff113894f6dd6dba7e6cc95c041542d06a39fd6f67421341711b9"
+hash = "f7b7391a86330099e39c9f6fcdf6d3b67f3eabd1df81b2a2f30d02bc1b5f069f"
 metafile = true
 
 [[files]]
