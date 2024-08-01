@@ -1,13 +1,13 @@
 name = "DUP"
 author = "dirtTW"
-version = "0.1.1"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ee8e902fdc90313a23119e61ac8e765be716f999fe3882a4de31a0ba59502390"
+hash = "23d79bd1c89e7581d566d70bdd6cdf875803cdedbf3561141c4e92d8aa5b1336"
 
 [versions]
 fabric = "0.15.11"
-minecraft = "1.20.1"
+minecraft = "1.20.4"
