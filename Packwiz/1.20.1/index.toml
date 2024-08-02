@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "94451721b1d75a38c42436d8f2260215a9547622de3f76dc09a5f8ecbfdecabe"
+hash = "e5a24ec75f1a6f4af3afd7685264dfd322fbcb6932f1754e06e172848ecdd421"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "803da5c561e6a14bc503252a313e6447caf3b05450e544407fdf7cef846d9a22"
+hash = "fcb66dd9da05ce9f915024126180dd5ba4f2b8301a8d4f965cf6f5c5688b20d4"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/redstoneauxiliary.pw.toml"
-hash = "dcdf8726943d78ea5216b94a6d9c6e00e86bd4639eb3e66af8551e6acb24e0b7"
+hash = "5036a3c12730a27791e0f60c65cb9f5809b8df6f315eaf3f33facc5a5b564366"
 metafile = true
 
 [[files]]

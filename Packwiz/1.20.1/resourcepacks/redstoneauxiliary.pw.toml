@@ -1,13 +1,13 @@
 name = "红石辅助RedstoneAuxiliary"
-filename = "红石必备材质!原版风格!1.19.4.zip"
+filename = "1.20.1蓝电线与汉化v1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/S6XROiqp/versions/DFBoqzMb/%E7%BA%A2%E7%9F%B3%E5%BF%85%E5%A4%87%E6%9D%90%E8%B4%A8%21%E5%8E%9F%E7%89%88%E9%A3%8E%E6%A0%BC%211.19.4.zip"
+url = "https://cdn.modrinth.com/data/S6XROiqp/versions/y3SiT1ft/1.20.1%E8%93%9D%E7%94%B5%E7%BA%BF%E4%B8%8E%E6%B1%89%E5%8C%96v1.1.zip"
 hash-format = "sha1"
-hash = "fe4bc1955af2c9e03b43c47b6340d70da68e2234"
+hash = "cea5571026014411743aa3e4aae6a8c95b6222dc"
 
 [update]
 [update.modrinth]
 mod-id = "S6XROiqp"
-version = "DFBoqzMb"
+version = "y3SiT1ft"
