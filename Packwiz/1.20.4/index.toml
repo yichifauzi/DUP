@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a1099b95a56fc3d493a7a85f4a42b368561f21e2f1648dc031df044b410ce2e1"
+hash = "6960612e7b852fb8deac4330e3132e49099bad032851594ee48dc5d16021b62b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "93f96fd07058ab30c06de5af59a09f56297a436e6fbb259a1faf4b6f06d2e458"
+hash = "d56ad7ffc81fe0f1cd6d694c98b1bc513e95bdedfebdd60f70a5c54416b1e426"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "6ccaab8dfa9fd9276e53728fa4efcbbff7e4daf64f56332a480e135639af5362"
+hash = "2258db577d21fc70af5b9d6556a3892653dbb1d4b80d302362d8b4c829eb68e8"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "0e4fa72958d991cc521acc77f7e5490e077dbb3083eeb1ed77144ced60511b89"
+hash = "10d69dd759281c13aef1f2325ae210d9e923c871acf8d2e3db68e542d86a4d2f"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/masa-gadget.pw.toml"
-hash = "d4ded0c66a9dccdb82f4e39278d3e9208bc2b79bbf97fa73b6b1a82cf78fa597"
+hash = "b5ab0085a01588fb81b75e0249a2661f2ef2e902c2b4bebfa967ea81d25949b4"
 metafile = true
 
 [[files]]
@@ -581,5 +581,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "585963a78adbd28f86e62de2151abc442b9a003450cd7959068c1482008feee6"
+hash = "8f616b0c11b3938edb5c7cac26a283c8f009417fb051278b41db2294a66928d2"
 metafile = true

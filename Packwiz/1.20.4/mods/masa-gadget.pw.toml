@@ -1,13 +1,13 @@
 name = "Masa Gadget"
-filename = "MasaGadget-mc1.20.4-fabric-4.0.355-stable.jar"
+filename = "MasaGadget-mc1.20.4-fabric-4.0.364-stable.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SFO4Ca80/versions/ERYDlHpi/MasaGadget-mc1.20.4-fabric-4.0.355-stable.jar"
+url = "https://cdn.modrinth.com/data/SFO4Ca80/versions/dqCplRLY/MasaGadget-mc1.20.4-fabric-4.0.364-stable.jar"
 hash-format = "sha1"
-hash = "11b3a9a5a1cdd89bdd7616f8c06a419463e42292"
+hash = "0e435d592b59dfd354a326930370be481a1e8a0f"
 
 [update]
 [update.modrinth]
 mod-id = "SFO4Ca80"
-version = "ERYDlHpi"
+version = "dqCplRLY"
