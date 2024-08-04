@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "f5f57262f7f036319722825c4b0f2114c92c26d9ca264e6591918e52fde95947"
+hash = "c9a502615c675576339841712c0cdec49539c211fd6f7bb8f4aee00ea7893b33"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "4d34153ddbe09df0906c4ee1ebf11438b1ccdf950d6178620f90615546eda5f2"
+hash = "ad71dfb525934ce44530da3e27e113e5600ede95258ff4bb716233c2d9dad9c2"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/masa-gadget.pw.toml"
-hash = "76ba502dd9dbe87e4e2037992240eb309d70c0afaa17a2244e82315243ea219d"
+hash = "f4a2f36fc45c4a1ec6b4844b691db65ff4fc15380406382847a877a83708ea90"
 metafile = true
 
 [[files]]
@@ -586,5 +586,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "585963a78adbd28f86e62de2151abc442b9a003450cd7959068c1482008feee6"
+hash = "8f616b0c11b3938edb5c7cac26a283c8f009417fb051278b41db2294a66928d2"
 metafile = true
