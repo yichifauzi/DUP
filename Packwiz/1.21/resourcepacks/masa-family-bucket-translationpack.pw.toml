@@ -1,0 +1,13 @@
+name = "Masa Family Bucket Translation Pack"
+filename = "Masa Family Bucket Translation Pack v1.0.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IEt3hTCe/versions/NhCfMAeo/Masa%20Family%20Bucket%20Translation%20Pack%20v1.0.4.zip"
+hash-format = "sha1"
+hash = "6b077474f3835548b256ff132410a169c6fa3934"
+
+[update]
+[update.modrinth]
+mod-id = "IEt3hTCe"
+version = "NhCfMAeo"

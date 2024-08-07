@@ -1,0 +1,13 @@
+name = "Tweakeroo"
+filename = "tweakeroo-fabric-1.21-0.20.999-sakura.24.jar"
+side = "client"
+
+[download]
+url = "https://github.com/sakura-ryoko/tweakeroo/releases/download/1.21-sakura.24/tweakeroo-fabric-1.21-0.20.999-sakura.24.jar"
+hash-format = "sha1"
+hash = "cfedb4101cc7efd89b2da6134677b84674cb5c80"
+
+[update]
+[update.modrinth]
+mod-id = "t5wuYk45"
+version = "xy9Qaktx"
