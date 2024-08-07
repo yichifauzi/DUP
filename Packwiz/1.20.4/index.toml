@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "4c9dc2e5b7444705e49ec6b93cffc326f6bb592890a0af257e10948c76ec98a8"
+hash = "61008e9e10715f54a43ac08aaefcfdaf8858d68f84d6eb08600fa54cbca658de"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "e7265fc0c9ad6e2db4fcb1e8346095d9397ca9a1c5c0dd2045e3179ffa8709a1"
+hash = "965dcd61014183b8241ba37c0cd4744ce9fda8439acbbe1e934079c4dc743665"
 metafile = true
 
 [[files]]
