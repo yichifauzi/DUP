@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "6960612e7b852fb8deac4330e3132e49099bad032851594ee48dc5d16021b62b"
+hash = "b0620f17a3995f1c8c36f2290cb96e5027d55a47d954bcbc7b3656a664e01f84"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d56ad7ffc81fe0f1cd6d694c98b1bc513e95bdedfebdd60f70a5c54416b1e426"
+hash = "008900f2daead97a0b493b3bc2ac12208be1c066b1dc487a00e6dbc538f4bb10"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "95aa079767412e5fe125c3d5519614e33336e77e8ac98664ab8c0998e096cc48"
+hash = "74006a3a1a087848531e633f1166a794f797134f21f8d56cea020f5314709f55"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-org-addition.pw.toml"
-hash = "74cbad1828567861c449b61f317a78c1e3c047f708d918b25da9685f7222d436"
+hash = "9e0537cf8dad2167915cf0f3a931147b5525a99588c64100432f977ae56a8f5a"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "904667a2217ab424bf2c8048503a98a140dc2461a12d7abc8303426f5351fb3e"
+hash = "bed82de528481b333967abe0077ae50f61c45118e40c45d07a25c112ae9d58a8"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
+hash = "9bace0ec532b1cb9e4584fe3ee63ec52c2aa93da1eee26c3ca6a339f8f4536ad"
 metafile = true
 
 [[files]]
@@ -452,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "c16e5515c9578fb21ede824ddc04c155687e64f905501648120b89f7669d57d1"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]

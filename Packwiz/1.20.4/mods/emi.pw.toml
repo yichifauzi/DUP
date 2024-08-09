@@ -1,13 +1,13 @@
 name = "EMI"
-filename = "emi-1.1.10+1.20.4+fabric.jar"
+filename = "emi-1.1.11+1.20.4+fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/BeIP838d/emi-1.1.10%2B1.20.4%2Bfabric.jar"
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/6fblD6MH/emi-1.1.11%2B1.20.4%2Bfabric.jar"
 hash-format = "sha1"
-hash = "856717d77002daddc702ae06df1eb2b9f5a89946"
+hash = "313efb01ec35a4c64b76990fa56edd45940ae2f6"
 
 [update]
 [update.modrinth]
 mod-id = "fRiHVvU7"
-version = "BeIP838d"
+version = "6fblD6MH"
