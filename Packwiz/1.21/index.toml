@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4af3b60c374b91983507b776902af9d580b170fb42c75dc6ffc9a4a82e0ba2b5"
+hash = "b0577d9362079501afe7d71fa5aaa89508fcc1afff4892d32af272763c37915d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7839d229bcb12e2b46694fa6b0af6ac364456e87c5a9f7a5fd8020517bebc364"
+hash = "f045dfccc4d36ddd8f97ed80d5f82d66d1c2e55471fba121d06b10cd9c6bfa56"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "86a608dfb59fd0d76041b57dba09971dcdd5f3acc019e79c30b67ca6c0ef38f7"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -46,7 +50,7 @@ hash = "e349669743d0e2b93ea4160399aae0bfe82892c3003cbec8dcf910342f3ae1ad"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "e79d42268119a134b441e27eaad7f81b0b3ce97bf6dfef93e1b592f357bb89b2"
+hash = "e6100427e0486fe83549471186884b70026e0f9c93cc05b3b1209c270832f69d"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -259,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cc7df60b8da436899b20d3027da779564e645849df15959e1e33e6152d92d503"
+hash = "c8215a5e6f35175c0c3d764284026b94a8159207319299081459f6aeb05b4191"
 metafile = true
 
 [[files]]
@@ -529,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "c29a03a3dcb8588cba64da4f436557f39ede724a0ff7b6fd1b8edc1341ee4293"
+hash = "ea5ba920f87f5d8683b0b5a3b888254d6170ebba99c0034eb06f55227cc5be1f"
 metafile = true
 
 [[files]]
@@ -544,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "f47445deaf719928412490e809ed384f95774e072259b20e3dd1db7e704e9231"
+hash = "9cfea7a43721026f313a6e8ece1c99179ab3c6b50e9862be2a94f90f7f60eee4"
 metafile = true
 
 [[files]]
