@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "860f349f22b4ae5c8765b78a961702aeaf70f5630110422f122666b3bead2437"
+hash = "281e2d541c2ab54e3bc6f0e5973205a3cf12074afeea89721a61b72192fe0d2b"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c8215a5e6f35175c0c3d764284026b94a8159207319299081459f6aeb05b4191"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "e318a87c9f52e76bc01ee1b903742221b975e7ce05d76fba7e2abe469903cfef"
+hash = "016ca31378ca594ebda26c1bcfc165bcddc9879c04d7aa4163d7037137a79dd5"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
+hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "2ce3b8a43c66e447c1dea644f802ca6fdb65c22a26367ce32d39c630477d5b13"
+hash = "eb21a10981ce6aad6fb16891563a98f56fc8b7db228840958ed08e38a185dd0d"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "ea5ba920f87f5d8683b0b5a3b888254d6170ebba99c0034eb06f55227cc5be1f"
+hash = "15a5753d12312ba41d14e1f6549bac5a02fa666a7ca1f39347c7c21faecf7fe4"
 metafile = true
 
 [[files]]
@@ -593,5 +593,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "03964b6397d312d899898cfd06019a1e62725df060b19745f4a0993bd9f18197"
+hash = "f8e865c4d22ea5044d9601fda35da6858194b49a5619f7982aab2e2831f0b8f0"
 metafile = true
