@@ -1,9 +1,9 @@
 name = "Litematica"
-filename = "litematica-fabric-1.21-0.19.2-alpha.1.jar"
+filename = "litematica-fabric-1.21-0.19.2.jar"
 side = "client"
 
 [download]
-url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21-0.19.2-alpha.1/litematica-fabric-1.21-0.19.2-alpha.1.jar"
+url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21-0.19.2/litematica-fabric-1.21-0.19.2.jar"
 hash-format = "sha1"
-hash = "459d16349d706a4c2a82fdcd71d461f177f98f48"
+hash = "cdb1be16d6b0b00cba47b69e5d22ec39b8ba63f5"
 

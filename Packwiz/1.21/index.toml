@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b0577d9362079501afe7d71fa5aaa89508fcc1afff4892d32af272763c37915d"
+hash = "cb0909938b10dee21569ea71f4d32ed1011d25f4756b090d80059c2245489c8d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f045dfccc4d36ddd8f97ed80d5f82d66d1c2e55471fba121d06b10cd9c6bfa56"
+hash = "bb6d7a73316c6ffe454a4ca2c418014b700a73252f60c5c12526caf8a2b27758"
 
 [[files]]
 file = "config/lithium.properties"
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "34f954f451e5c33c7b5db0966770694dad3b5ccacae30f2ef4dee624f95e12b5"
+hash = "90c02ad9c9a5d845453c8a27e33a8c37c7b308c8298c862eaa1c448ef532937a"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "3e36b74af739431c78c2b74c0c59828dacbc18d24eaa5b64820bbcb5350fff3e"
+hash = "295991ddfa72d2fd5dd3086e07f121c91e85f93c49f7bd0388da6064c4f7eed8"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "43e0bd9dbfd6efc00723b2a8d9b52dba143ca91eb59d5e653f8ff9a8c5f2df65"
+hash = "28b6d06cdeca7b00f03ad5ef2311e13f3a050f415c1cc4ae0bffcae0f54d3c06"
 metafile = true
 
 [[files]]
@@ -548,12 +548,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "9cfea7a43721026f313a6e8ece1c99179ab3c6b50e9862be2a94f90f7f60eee4"
+hash = "0d2d5eb3579e5184c796f06358b31b92befdf38f19dd731e9d591a87937aa7da"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f590e02371a224d8a005ec5f6fe0f025f1b3642345c17d1feaa2cb4f4028fdd"
+hash = "5607c21ed488c02fec5ad17424d184cb7c1eb38536ed494184edc99ebd0b6a0e"
 metafile = true
 
 [[files]]
