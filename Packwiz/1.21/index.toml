@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "cb0909938b10dee21569ea71f4d32ed1011d25f4756b090d80059c2245489c8d"
+hash = "cdd3a8d9a6090fc424ab241a4d1aff98bf17a5a4986635f965f1341fbb4e6975"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "bb6d7a73316c6ffe454a4ca2c418014b700a73252f60c5c12526caf8a2b27758"
+hash = "33e6ae60c02f21612fca4cbdc3a5c8c2461d2a80f016a28e3adba217d75bc265"
 
 [[files]]
 file = "config/lithium.properties"
@@ -248,17 +248,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "86e971b1f82d63c791f7e7574c0ebfc9d1e4b6a23085257599ded29ed365ce6c"
+hash = "e8cf1bd4eb13233ca3d3bcef35a78976552c89b52d56ece96c5179b1c0188473"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
+hash = "8078e4d71da6ead36a6134ba3f5f0b90b53ba6466a176986a644bee3f6c2da5c"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b2af1699d567294bf20e80fd62069f65aca68746a78655984d30332b65ebd5a4"
+hash = "3508403607f441ed70fe3eff44c5095a74df189887fd1a67f6fbcbc2cbe7c458"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "fb9771f28f1fb92ff6b6e049ce18c458f679351a782143c18407fba8546d066e"
+hash = "9ee3f572f67b4387198f29409c29df8f2b4cc76b3c09645ce84fa06ac88dc3e6"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "eb21a10981ce6aad6fb16891563a98f56fc8b7db228840958ed08e38a185dd0d"
+hash = "2301eca5fd55b332f714d8d2d4343363281a4fa2bd67447246cb257fd00e1ceb"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "28b6d06cdeca7b00f03ad5ef2311e13f3a050f415c1cc4ae0bffcae0f54d3c06"
+hash = "a39cd82e397036a3c1d886a0cce33539fa13163358559f229adc6cc7cdb2192b"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "702034dbed70640cc6a634dd2387264aa5beb77fceecc918a4ad68acbdd52cf1"
+hash = "f3b85761b078d82f78acc2eb7dc490b3b70d25c304eb9af9dcd553ba796f7559"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "13be60ece9876302c1c9f448d73fc335c0501ba26e7296481204cf9c2de0b536"
+hash = "eeff292e7909e2f78c93dae09e2d2902dcbce0bb2ab26590d8c27c9a9b487d0f"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
+hash = "c7c101be06ad509eb7d2d2459419524b6814152546d59e0f7608b22a0d066ad9"
 metafile = true
 
 [[files]]
@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
-hash = "80dd3c1501effe5e8e938ec51026e5fd1080c9b7738e7ad3c2c0709205d96d32"
+hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "02dc866a9de4af9965d036bac467c06dbd3ce63cbe1ab44d9febcb00c4828011"
+hash = "cbcdf97e1c442a6b0c51dbae6f5fbf86711d9cdc6ab977782e7f0c0e0608911b"
 metafile = true
 
 [[files]]
