@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "overrides": {
+    "fabricloader": { "+depends": { "fabricloader": ">=0.15.11" } },
+    "minecraft": {
+      "+recommends": { "DUP MC 1.21": ">0.3.7" }
+    },
+    "moreculling": { "breaks": { "sodium": "<=0.5.11" } }
+  }
+}

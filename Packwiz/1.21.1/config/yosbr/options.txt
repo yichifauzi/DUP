@@ -1,0 +1,27 @@
+version:3953
+advancedItemTooltips:true
+darkMojangStudiosBackground:true
+enableVsync:false
+guiScale:0
+gamma:1.0
+joinedFirstServer:true
+maxFps:260
+onboardAccessibility:false
+operatorItemsTab:true
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:glass_pane_culling_fix","continuity:default","file/红石必备材质!原版风格!1.19.4.zip","file/ModsTranslationPack-1.21.x.zip","file/Masa Family Bucket Translation Pack v1.0.4.zip"]
+incompatibleResourcePacks:["appleskin","betteradvancements","clientcommands","controlling","imblocker","jade","jei","magiclib_malilib_extra","magiclib_minecraft_api","modernfix","rrls","searchables","spark","tweakeroo","xaerominimap","xaeroworldmap","xaerozoomout","yet_another_config_lib_v3","file/红石必备材质!原版风格!1.19.4.zip"]
+simulationDistance:6
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none
+menuBackgroundBlurriness:1
+soundCategory_music:0.0
+syncChunkWrites:false
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.unknown
+key_key.advancements:key.keyboard.k

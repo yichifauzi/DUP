@@ -1,0 +1,13 @@
+name = "Carpet Org Addition"
+filename = "carpet-org-addition-mc1.21.1-v1.33.1-2408091400.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/L0bOPIqR/versions/bQWtw8ak/carpet-org-addition-mc1.21.1-v1.33.1-2408091400.jar"
+hash-format = "sha1"
+hash = "210f8dbe4b9a089024064a123ac2cde02311f4ac"
+
+[update]
+[update.modrinth]
+mod-id = "L0bOPIqR"
+version = "bQWtw8ak"
