@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8fd499d9d6b64c9086e70f2f58c359701d0988369451835c05cb2ad2e913d3c5"
+hash = "210ea145b81a5582bfde186dfc97da35d221aa54ffb1813c1f819137242625d0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fd9bd1db30ec5f0b7922dd6d21ba659c8f5bc598de01d3dab7a2912c1b3ce11e"
+hash = "8899296b56a2393800c120d4808af7e262a316fbb75a8e32d315d492b6dd0a56"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -241,17 +241,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7609db7b10ab94c8f9e1e0899667768f7bad26013be5dc2bd86b2ff86fe9886b"
+hash = "dbec4676cb16f1571a6fbce29972a45efcee6c34568a59444d77437204efa75c"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "19234a2e250e302674c9ccc9b457a3789e475d92c0d3e849e2a61e093caa9ee9"
+hash = "f13b03cbf3a6457b984cb9c2d43330876b7658b69b3431db646f329bc4eba8d6"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cf1070e84af9b1bfd67f09d1bd3ca8153b7020789116e1bbbce3408284faf523"
+hash = "197118fe17a2d7fd0d2ac4547006fd34d59eab27f8299d62109c8edfe45c575b"
 metafile = true
 
 [[files]]
@@ -261,17 +261,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+hash = "c0b641b5e3f1f71278913888d83d8a7727f4fe058a60d8f99d89fb388c7c473f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
+hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
 metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "f68a7134e227d4b2a977d2e2a0879081edaab90481d7ee0245de7aa68b13c6e2"
+hash = "b2e9c15a2b9e5a2788a6fd75773bab397d5311cf436a6af8a30356808f6fbea6"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6be56e4af966f5f08148087a7b5ccd5676bcfc203552b8d0a1439e4be5614da5"
+hash = "50c6faa614dd688541639cca775e7fe9355020c6fe3c3df0998e360039a2038f"
 metafile = true
 
 [[files]]
@@ -436,12 +436,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "b4a256628fee20fb7daf7256d7ffd98bac19aa24ef06ab8ef68673d2ddbea39c"
+hash = "ce74db07a1394c86e6d3e5b2860a89a8794ac02b3b5fdcf606c4689d97dc1543"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7b79a6c0397c3e1f5811508cf89cd99dea35d6a5363c247731b63a974eeaf7ee"
+hash = "4387a5571ff490a8d7000af233d9da85f4fcf10428beec30d586cfbfda38156b"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "bbcb99dc5c4091a46cdc95bdbf4382d933fe8ef14423f2f9147ec8f411603b91"
+hash = "daf8ad3c106d9f248a1ea2725901640d37162eca12e45538c69eafe80738c4da"
 metafile = true
 
 [[files]]
@@ -546,17 +546,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "86da498e30737f9da8a7e8a47a5176cac48b3b2c6f536a529b09ed380ab42a42"
+hash = "7cbfefe9e29e61f4cb6626ff725a209cfbb9a42f22179f592318aeab29980e79"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "cb2821d4397816c6813588a3943902e0fede8116ddff3b8fbae3f676f3358b86"
+hash = "eb1e00a5a644f58e4e6e893a142c0812795cf31aa3c5cc9d5fc79a4f444594a9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d51319ac7b9e0fdedb835346c235748b0a0ceade7277356a7510840d460d05e9"
+hash = "38a24a6e92fa3066e9ad1ac910f99dc2b8bd838d2467828316027fd177fa50ed"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/modstranslationpack.pw.toml"
-hash = "d59bf7365605f67e7346eb7273de2b213fc4eb883382bf5279562834c0e2688f"
+hash = "965cb395dfb62a47979b4205d3f28d28dfa3f291556cf605756f536006fc9c21"
 metafile = true
 
 [[files]]
@@ -591,5 +591,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "f8e865c4d22ea5044d9601fda35da6858194b49a5619f7982aab2e2831f0b8f0"
+hash = "549b9e178b00ca768b00b6b3cbb337442a47af6e7a80a1c11be50353a6bef76e"
 metafile = true
