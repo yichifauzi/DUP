@@ -248,17 +248,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "073c33b521616fd05b8a370b4b5cabc681ed621bd6752cc9c41082cf72d708b3"
+hash = "89c2440ea3e2f2385cefd60d5b56dc0cf1a7adc85cdc337d47159485dc6277ee"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e25508bbfeb8e7974dc23399367d72d854e6f3d62aa6b7e9a9e850930676dcec"
+hash = "7289a04452c422ed4b3d1d35b30b6a70fb397c0d53de00fb2d42b188cd6c7530"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "479dc1be7b22163d5a4f13c3c156204bce08d2a5310412e8d8f237486d92ae94"
+hash = "a5a1019a4d28a1f025a8a852095b567a94d03d9df7665d30e2af87d850bf76d3"
 metafile = true
 
 [[files]]
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "75cacf1f2e9d71dfa71a1625c620e6f33a484cf5f593538373d0cb2887702fcd"
+hash = "cf0adf784f1a181299bc48c9b9048fba5980755365586592e73ffe46ae4915e5"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "93b1b62c7cbbcbcd459fb83bdf9c7aff3fe71c475e7d922bfcb85c45f66fe2ed"
+hash = "e68788bd18b09e027ba7fe6be706e89b44dcfe0827607e6c8b2bed05095e2d54"
 metafile = true
 
 [[files]]
@@ -548,12 +548,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "540207824a13ecc4fba0014b1687afeadf8ea462009d1a578e5cebb5794e51b8"
+hash = "46b5490f1e17fccebafbd91d828d438ddee144af58833b85b4264bcdad40ada0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3561135d521ec2687a8d64abd53e2e5bdd769decdca8a05b5486aab9c331277f"
+hash = "1224007002cb0a1a96828c7329e84fdaa34edaf7a4eb2a099d39555880c4ff48"
 metafile = true
 
 [[files]]
@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/modstranslationpack.pw.toml"
-hash = "19082913b35773849b1f5aec342ac101a23dfdfbc20b307e766b49c9376d0159"
+hash = "48a6cb3d2942de70a5720ca7352471fe17d9ba4736bbe4cb65be441e7ae54d97"
 metafile = true
 
 [[files]]
@@ -593,5 +593,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "1d9401360096b6bd308a7b7b5ee969e5bf773ab7b02e0990e0d5592e458b7f08"
+hash = "549b9e178b00ca768b00b6b3cbb337442a47af6e7a80a1c11be50353a6bef76e"
 metafile = true
