@@ -1,9 +1,9 @@
 {
   "version": 1,
   "overrides": {
-    "fabricloader": { "+depends": { "fabricloader": ">=0.15.11" } },
+    "fabricloader": { "+depends": { "fabricloader": ">=0.16.5" } },
     "minecraft": {
-      "+recommends": { "DUP MC 1.20.4": ">0.2.4" },
+      "+recommends": { "DUP MC 1.20.4": ">0.2.5" },
       "+breaks": { "holdthatchunk": "<=2.0.1" }
     }
   }

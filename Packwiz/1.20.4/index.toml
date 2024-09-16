@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "210ea145b81a5582bfde186dfc97da35d221aa54ffb1813c1f819137242625d0"
+hash = "17521af5aeed02f035e2dadad72550c029789a5095b337648e4e9148af8d2dda"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8899296b56a2393800c120d4808af7e262a316fbb75a8e32d315d492b6dd0a56"
+hash = "2530b6661379c0cee9dba1133d15a051d62fa32d61d1aa8c41f80a6d6dae4c87"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
-hash = "42559ed3fd514e759ccf9867ba383926cab399304df2898753204c36994307ea"
+hash = "e2d05b509e22f0967c1b9d1e4c580ab221eda480b7211ced9825b467ca409e87"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "5f4666d8d30ad23a6d1ea39d5ef0491cdf97524b4f74e6aec40fa5882d969616"
+hash = "dcd2bbc90bce16473ba4b19dc31a810854303558f258f1c978b5d5d8c7da0787"
 metafile = true
 
 [[files]]
@@ -236,12 +236,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "26b5d4a8932c511b4db5f2ad75b6379c07cea956f79adc3dea59ccc06d1aeabf"
+hash = "2760a0d2fda3d9c7b8006a103e61d8f7747f2cdffd4bce96e0db30dd8cf6f5ee"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "dbec4676cb16f1571a6fbce29972a45efcee6c34568a59444d77437204efa75c"
+hash = "423d0e680b2a16210cf8482101d0b1d8d9ff1c2659db04fac2b3cb91d747f1aa"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "197118fe17a2d7fd0d2ac4547006fd34d59eab27f8299d62109c8edfe45c575b"
+hash = "f4538fb5e673af9b5726616db9b598088fcf44a88fc304ac712ba3b0f3578e3d"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "b2e9c15a2b9e5a2788a6fd75773bab397d5311cf436a6af8a30356808f6fbea6"
+hash = "bcd27d481492c7f60c09bb841281da82eb6f8e83305c98f2be21376d7bd3fae1"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4387a5571ff490a8d7000af233d9da85f4fcf10428beec30d586cfbfda38156b"
+hash = "489d712a88c1a50b21b0affdfa3665565fbcc1aa18d91f0822775cecfe0949e2"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "7cbfefe9e29e61f4cb6626ff725a209cfbb9a42f22179f592318aeab29980e79"
+hash = "b8b6a78926b6466ceed3e0b5ac592e75ba80d045bf4868af05834fe59f3d8501"
 metafile = true
 
 [[files]]
@@ -591,5 +591,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "549b9e178b00ca768b00b6b3cbb337442a47af6e7a80a1c11be50353a6bef76e"
+hash = "c79db5b1bf80fbe510b33ea2b6b009df52953547cb2920d67191e54d5b89127d"
 metafile = true
