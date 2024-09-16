@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "cdd3a8d9a6090fc424ab241a4d1aff98bf17a5a4986635f965f1341fbb4e6975"
+hash = "143bd14aec6c6e95242690f44ddec52ccb9ef61871f855651cf08e9b3f12d7fe"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "33e6ae60c02f21612fca4cbdc3a5c8c2461d2a80f016a28e3adba217d75bc265"
+hash = "18be74a0e1263cf4f8b326f82c6a37cc8aad62b5bc6c208dc12e67814ca1fa11"
 
 [[files]]
 file = "config/lithium.properties"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
-hash = "731891a7dd08c091f4d56ea9bed1cde4519430931d14c6862a39428894f26020"
+hash = "a7d6dbb1e2cd337e3e1cbebde87ab7e1258b79095b84628e077f6d88ac047c00"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "588d5db4657d141054c204c714f278f9e2d25f55d4e389a9624e07d26ede5f6c"
+hash = "2a25f8f8df18c2416c03a3655ae918cecb427d389ea7f81fc188e5778ec3f0aa"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "89c2440ea3e2f2385cefd60d5b56dc0cf1a7adc85cdc337d47159485dc6277ee"
+hash = "14e62b9300da0d8a8cf5a39bb2ceb9960e8522be3cd6e9f5851550ed3345473d"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a5a1019a4d28a1f025a8a852095b567a94d03d9df7665d30e2af87d850bf76d3"
+hash = "60c41c12194921098ad378d6d3c41d027a7691b008f314642f6a262d3a4bb040"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "be66e40a02e11c4fafb987d01c7a17255f9717b47f03af9a59e61bdfc5c89271"
+hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "5f44625dd5f670b04305e402d9e563e7c502d84fbe69918919a71567141bc035"
+hash = "594d1709bfd4fab315886b7c31603e3891dbf6ef96ac075a48e7250c4109a06d"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "46b5490f1e17fccebafbd91d828d438ddee144af58833b85b4264bcdad40ada0"
+hash = "e0d2a297f2a2da98b76b5172b249fdaf5d8c174fb81d783ae61125ea66f00b30"
 metafile = true
 
 [[files]]
@@ -598,5 +598,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "549b9e178b00ca768b00b6b3cbb337442a47af6e7a80a1c11be50353a6bef76e"
+hash = "c79db5b1bf80fbe510b33ea2b6b009df52953547cb2920d67191e54d5b89127d"
 metafile = true

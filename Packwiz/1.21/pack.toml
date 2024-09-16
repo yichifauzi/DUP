@@ -1,13 +1,13 @@
 name = "DUP MC 1.21"
 author = "dirtTW"
-version = "0.3.6"
+version = "0.3.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "71349579297f4b2447cd1c9eb1b1bc9fcdc4f893abd314bbc67a3365564958fa"
+hash = "115c7c8110e267e4068676b8b2c93dccbbf3f795275bf26854ec5fe9d2ad0021"
 
 [versions]
-fabric = "0.16.4"
+fabric = "0.16.5"
 minecraft = "1.21"
