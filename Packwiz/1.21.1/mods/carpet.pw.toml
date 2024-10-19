@@ -3,11 +3,11 @@ filename = "fabric-carpet-1.21-1.4.147+v240613.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "54f2907d83e67283d165336f26e5219d4bd36037"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/f2mvlGrg/fabric-carpet-1.21-1.4.147%2Bv240613.jar"
+hash-format = "sha512"
+hash = "e6f33d13406796a34e7598d997113f25f7bea3e55f9d334b73842adda52b2c5d0a86b7b12ac812d7e758861e3f468bf201c6c710c40162bb79d6818938204151"
 
 [update]
-[update.curseforge]
-file-id = 5425253
-project-id = 349239
+[update.modrinth]
+mod-id = "TQTTVgYE"
+version = "f2mvlGrg"
