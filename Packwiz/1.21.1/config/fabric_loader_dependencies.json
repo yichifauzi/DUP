@@ -3,8 +3,7 @@
   "overrides": {
     "fabricloader": { "+depends": { "fabricloader": ">=0.16.9" } },
     "minecraft": {
-      "+recommends": { "DUP MC 1.21": ">0.4.1" }
-    },
-    "ias": { "depends": { "minecraft": ">=1.21" } }
+      "+recommends": { "DUP MC 1.21.1": ">0.4.2" }
+    }
   }
 }
