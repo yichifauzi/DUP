@@ -1,0 +1,13 @@
+name = "Xaero Zoomout"
+filename = "XaeroZoomout-Fabric-1.21-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T6oqPfxF/versions/XIx4enCh/XaeroZoomout-Fabric-1.21-2.0.0.jar"
+hash-format = "sha1"
+hash = "205f194a03f9049b11239badac39ce13edf91f24"
+
+[update]
+[update.modrinth]
+mod-id = "T6oqPfxF"
+version = "XIx4enCh"

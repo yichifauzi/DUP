@@ -1,0 +1,13 @@
+name = "ModsTranslationPack"
+filename = "ModsTranslationPack-1.21.x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cF5VXmkW/versions/3eP7opMq/ModsTranslationPack-1.21.x.zip"
+hash-format = "sha512"
+hash = "753582f8e5393f6beb864965f65d6f71c82ee0899deec24009e1d0595b7711ff6c003cf9eac6bd7e12acbb5a1e1dc46adfc606b31c2b7586da10db2c38682516"
+
+[update]
+[update.modrinth]
+mod-id = "cF5VXmkW"
+version = "3eP7opMq"

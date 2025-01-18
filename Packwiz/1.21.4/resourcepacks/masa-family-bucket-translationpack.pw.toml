@@ -1,0 +1,13 @@
+name = "Masa Family Bucket Translation Pack"
+filename = "masa-mods-chinese.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IEt3hTCe/versions/Gy6S49fq/masa-mods-chinese.zip"
+hash-format = "sha512"
+hash = "71a9a802ebcb98a08cf0e6b1dfb27aa5de8342f5b806b7cb061bc9af03f4caec0d3515988f040486aae0f55857b06b9d497283ba97726b4145daa62f00a438d1"
+
+[update]
+[update.modrinth]
+mod-id = "IEt3hTCe"
+version = "Gy6S49fq"
