@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f629b821d1e290088865b01bc3bcc54c6c722a474137413be7cc98a79237d9e0"
+hash = "1048a87f6fcf16b250634c4a05f2931d72ae67be436c2210e2fd9e92918038ca"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "303bb5831c8d50f7b67a3b8f9f08d402befb87d773c8aab6eb3f130355492274"
+hash = "7a6e0898534681c6059f8f1450a28da695ee96600293ac0e72d2dfb8a4aed90f"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -74,7 +78,7 @@ hash = "1da7266fa241ac8b85771a15f8ef0972b44969b3f258ad24592136afe1be7938"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
+hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -193,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7e01e21989c0b58b0f947238d907839585c3afb1a978d1f2ce22bcf46ef90cfa"
+hash = "e9b878a33e2dcc2bb2a347977d4d6e0f65be41924c8ccf02b1491fffc6ebbe05"
 metafile = true
 
 [[files]]
@@ -229,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "15eaa7927e118a352c4ef7dad762dbd0de91ab3f2b3c9277a9587f8443b6385b"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
 metafile = true
 
 [[files]]
@@ -284,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "fe4b38a0e9f95b5456597a405f644303fe17638e6d382031fb918683a9baffa3"
 metafile = true
 
 [[files]]
@@ -343,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f419d8fb92a7567a747f3f448b357c1c31198826ce3e0e61966489561bfdf67"
+hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
 metafile = true
 
 [[files]]
@@ -418,12 +432,17 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "fcb0df05d20aaabd18d184009b26d34873a402ff4152f8079428d8e5e4921450"
+hash = "d2e8ba48532b0a3bbcaeb92b133a85e30bec4ddadf45b0d6df679375817e10a2"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "26af8dd5c551fac4488fc9979cf8616ac71df8dae2a9547c80ef92c6e95d3d05"
 metafile = true
 
 [[files]]
@@ -438,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "b736ad8457632e01078268f115bf1511da71a9576f9449f81113cf135c950ef0"
+hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
 metafile = true
 
 [[files]]
@@ -528,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "b6aa3860f35335abf8a33f9899871d391a6c721eedde5003bf02d4a9d97e72f4"
+hash = "eec50e0081a1064516fcfa2a2207b4d931047df478ba0fd8f19d2cb2cbab8250"
 metafile = true
 
 [[files]]
