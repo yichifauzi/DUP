@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1048a87f6fcf16b250634c4a05f2931d72ae67be436c2210e2fd9e92918038ca"
+hash = "81e8427827503516e82f0cb27e1badadcc7eb20868947096016cf45ba8fe9a15"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7a6e0898534681c6059f8f1450a28da695ee96600293ac0e72d2dfb8a4aed90f"
+hash = "e3ceb7f0c92ad79c527305b393c2d2a2ea790f5c81286d672aa340b1a8f21984"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "73e0cb72af02c0399c345df40ba0d856fa8fb1adc9b6fcbdd2c54f614fdbdab4"
+hash = "7d73e88045e39585ed44133072365404a37229e66f3f0e7995b6e722f22894f3"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
-hash = "d1770ac663c637549e5076d30631374785c6047be84b95f5dda064f9a248b386"
+hash = "f2357f6ab9f0c1be64a33eb2ba2cc312c528bb0889f44761c6986f49bb18d964"
 metafile = true
 
 [[files]]
@@ -197,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e9b878a33e2dcc2bb2a347977d4d6e0f65be41924c8ccf02b1491fffc6ebbe05"
+hash = "1ea25a7af36e8fae96f05d9ebd50aa0aa5018064349cd86d4c4586fd1c65c2b8"
 metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "553206f9e18da444587bdc258004ae04270f205685a355677195d768e4c61297"
+hash = "56c9c4fd7be775aa9b8c97b8e3e3224f1c4df7680bfa626bcb5c38a4f432b203"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ff598f555942476705a5691c20d324cb2c0cacd27729424f94a1a34cb29f75d2"
+hash = "4c4aa73a3c39122d34c95ca5d2b60c26c81aced32760bde7bb3b9c0dfdfa646c"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "fe4b38a0e9f95b5456597a405f644303fe17638e6d382031fb918683a9baffa3"
+hash = "de71db1e4ff087d579c4340efe7bba4eb5eb148b9521a1d4d526af66de74a7a1"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
+hash = "c7acf68591c9e2e380d2fa7f01bd3b8f37a9e91ee53c59e043c4189a86c162a9"
 metafile = true
 
 [[files]]
@@ -376,6 +376,11 @@ hash = "13f4a38022d7e100dc13b05b0513b6693f2de8a5d8a8ee6d40d8099981c4a929"
 metafile = true
 
 [[files]]
+file = "mods/masa-gadget-dev.pw.toml"
+hash = "e4d6bd173f509ef871d4fe5a293d136f8ab9bb5bd96bc3e625817af71fe18da1"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "5b79c8e36f9204ee4a6f6d2eb6e3665d42fb09ebe4fc79b85e2951697597aca7"
 metafile = true
@@ -397,12 +402,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "348bd2931980c466e83f985747904f271c82ef7e23a4e33bbe9b882b0e7e5c94"
+hash = "189ffd9cebd2dd46397826288ab8946429bdd47e1d43e0000159ebbf34757c25"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e0ee868032501d71c583621a03fbb7317aa4997c234f5efe59fe498e10e0bf9b"
+hash = "57d85950ff52812e642cc62cdb703e1397b5c635e8f159216963b29b0225b2b2"
 metafile = true
 
 [[files]]
@@ -463,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "0c3b529ef42bed18d541942086fb8612afc03c1826b0d6532a66f12f3a9987eb"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
 metafile = true
 
 [[files]]
@@ -547,12 +557,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "eec50e0081a1064516fcfa2a2207b4d931047df478ba0fd8f19d2cb2cbab8250"
+hash = "3ba06f3e5cdccd63f4c8b1c2ec5a6b3332e3fa2ec1b5aa09b15d09daa3373ace"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c6ae02092faf1e839639394c41e12685e8788608dcaf2371962f13af5d1897db"
+hash = "68abfd9be64ac4a67bd1e16f9911c83fede85aede4561d229905361bc76d0f83"
 metafile = true
 
 [[files]]
@@ -582,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/modstranslationpack.pw.toml"
-hash = "fd94d807404f45ce6f4da4a5382899f3003df2bc5a10408a465ab086c70c2f84"
+hash = "a2fe12f62b5c7450932c327729558e63a61a597f5848fb21a2ee63069e207c98"
 metafile = true
 
 [[files]]
