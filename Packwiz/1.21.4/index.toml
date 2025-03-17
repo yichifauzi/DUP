@@ -2,19 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "2638eec8d3e21ecdaa27eb806f2bd95cac65559233d0fe4723fe237d91bdb1a3"
+hash = "7b55982dece299891f1abf7c76a51644bdf08e85889fc14c71e93ec42c515ed9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5e8c3bbafc316881b8e340c2d8e59d1bf6ad9f7b41d918b916b9005156d01e68"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "e56270e35437b3813e6ae3be3ae24d82c774b98a0dfed6c16dd12c56a7289b03"
+hash = "25532057b93835554afb8791c88381536bd3773f5907bc2ac41a5e588529dc1a"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -110,7 +102,7 @@ hash = "add52927e94c7207a2283a98ba1f274b8fdd80e191f2a1767e46c1512571a307"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "6cea48c192d3832f070709b9a8b22262da36279c17f72a2cf69a1d4e794c01be"
+hash = "e56270e35437b3813e6ae3be3ae24d82c774b98a0dfed6c16dd12c56a7289b03"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
@@ -137,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "f5f1edd0186c5e711f3ea2f36fd3437311755dbd4cc5bcece4ea12fe053afc2b"
+hash = "d6137fabcdc6232b5286bf7ead13b51f56d5bb70bc23c28c04666c01dfe8e592"
 metafile = true
 
 [[files]]
@@ -167,12 +159,12 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "f85c908d960ca1baf260bbcfa672b1bf46b633c9d71870c43a14be5b4187904a"
+hash = "c764ec528a8f0a0608129136fa35538e174dea6bcd712285db0a15b2ba685d1f"
 metafile = true
 
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
-hash = "07ca88a90cb70245d47a5668c583550a16ca05ad54a77159f9370ed6fa7fa925"
+hash = "e9bca86c490bf16624b8edf1f2f3ab242f4a624dd1ce65e6e55015782257f448"
 metafile = true
 
 [[files]]
@@ -227,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c86dd05c608c904be75edc259627a003738402a0450a7e78fa17292dff70d97a"
+hash = "6f401ef69f355048385146209db2c5eabb8173969f9bddb7955706efa036808f"
 metafile = true
 
 [[files]]
@@ -262,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
+hash = "55834f322dc7d9a7d5365ac6b4dd5f6f72152f798bd87e68c9e373498c9fed12"
 metafile = true
 
 [[files]]
@@ -272,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "e9fed6ccf094ba4b4a8081234bace78966a3d94ed24b166fb86152c85a529304"
+hash = "66538c358f7669b13d22a4fb1b52f399052a5a07287c5a795ca196a39e561903"
 metafile = true
 
 [[files]]
@@ -302,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "2041332a08d6cb723727bba746a859181c10f6d8a3e9d5d79cc53fd6d6973773"
+hash = "a200c784c21371243387461456bd9a5fccc4468c4f6f761395b845e6fd224734"
 metafile = true
 
 [[files]]
@@ -312,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f293bc44a5350f8c10eca8b634e0f2b7f10aa240bad0239a0735a5631cc00091"
+hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
 metafile = true
 
 [[files]]
@@ -322,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "12e124b843f09e9af9c1cf0221a231dc76e071a97c2f443e3d03c3bdb76a3bd2"
+hash = "5f055dd476821cd7de6dd0498ffdbd458d1745444a3f74dabee44a3ca8115a82"
 metafile = true
 
 [[files]]
@@ -342,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9752dfb3a2284f00d64d338df2d740e5c55bfcd4eb1aa7819fd9915a007468ef"
+hash = "dd21c75c6226beb1d2c868b1beb30bf2d1ffd8de510f4a240bd42ff4c43608c8"
 metafile = true
 
 [[files]]
@@ -352,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "b5ca8fbc8a150538fffc7c1045f73556b1814eeb47af11c69a42320b71e90bb9"
+hash = "8d4742de404e20cf2bd15348dc278ee522be86aab5aa3c15699695812fe62516"
 metafile = true
 
 [[files]]
@@ -362,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
+hash = "58bc826a0b2f0ba422144d35941dd912d349877225e121446180a14d7872040d"
 metafile = true
 
 [[files]]
@@ -412,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5ca4c5d71d0e9fbcc9a8561fe3e05fbdad8150d98e5976e9fec8f62c103ebeea"
+hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
 metafile = true
 
 [[files]]
@@ -422,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0c32fe0ba692994312c8934087ea948fb4326cb02412adb646a9f21c37de0ccc"
+hash = "58ac94e31c1aed9dec3fea9c956fb4e9d3f5244d1a5d6521c25781ca08150b34"
 metafile = true
 
 [[files]]
@@ -562,12 +554,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "c744c548500c0cb90b0f84f1b819e639d542a5b9e0493971615f2b99e740eda8"
+hash = "e4230f82fe4ff42d43d48b12def09ebc4064b9039170ca1fb75ee34ea80c7444"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ad1d2aa1d8270cd771b436b431929b17e0bd88847eb181df7ad355bcb0c86dec"
+hash = "9325b307b5396a19c7cb40298491652770c37c4d52c2993474f7916aee970c55"
 metafile = true
 
 [[files]]
@@ -597,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/modstranslationpack.pw.toml"
-hash = "29e5b5400f6871eb29fd84d1d0747746fb95ec0ee209e9bdc96f4545581de9cb"
+hash = "b5077337009eea3f07b731677e17865c2988f1e4d5deacb9c8fa60229e47dbf6"
 metafile = true
 
 [[files]]
@@ -607,5 +599,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e6e8807859717ef8894593dc1368719d3cfcab0ee2acd9cb2e0ee647a2b27c0e"
+hash = "e39ebed36242a2a7842ef5b189e28df2e3350ad143643407c2435c21234aa42e"
 metafile = true

@@ -3,11 +3,11 @@ filename = "ModsTranslationPack-1.21.x.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/cF5VXmkW/versions/sXDtVai9/ModsTranslationPack-1.21.x.zip"
+url = "https://cdn.modrinth.com/data/cF5VXmkW/versions/uuVDQRDa/ModsTranslationPack-1.21.x.zip"
 hash-format = "sha512"
-hash = "3c911e9083a0cc66b13a8a6b92e302f467d4bcf52db4c464268e78403505ab7b4b8ebbc5d8f1fc5f0a4effb232a51e37fa1a4162389394392d9e6808401bf39e"
+hash = "aa0485e41dba9c4f67b96c8b6c2914eb804df6fc1b3b59b998a97d65e05e93a999ab1a54d30e41e8e1f62bf239d565b9f7d7d2088235de823cf20f6e22487e56"
 
 [update]
 [update.modrinth]
 mod-id = "cF5VXmkW"
-version = "sXDtVai9"
+version = "uuVDQRDa"

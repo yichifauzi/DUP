@@ -1,12 +1,12 @@
 name = "DUP MC 1.21.4"
 author = "dirtTW"
-version = "0.5.3"
+version = "0.5.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ef063fbb0d15e437f01ed1dabfd020a8d078ac65aed8c07da841ca5cc6854b97"
+hash = "fec0da689ceba4c6e19d08cd58b641e68de51d88f91b15080d756ff19130c8c7"
 
 [versions]
 fabric = "0.16.10"
